@@ -4,4 +4,4 @@
 
 The object of the game is very basic; dodge the giant balls while running away from the guard, who will hunt you down relentlessly.
 
-To start: Open in Unity, navigate to Assets > Scenes > Start.
+To start: Open in Unity, navigate to Assets > Scenes > StartScene.
